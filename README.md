@@ -1,3 +1,41 @@
+# Bengaluru Traffic Management Dashboard
+
+## Overview
+
+The **Bengaluru Traffic Management Dashboard** is a web application built with React that provides an interactive interface for monitoring and managing traffic at various intersections in Bengaluru. The application visualizes traffic data and system metrics, allowing users to simulate faults, repair intersections, and analyze traffic patterns.
+
+## Features
+
+- **Real-time Traffic Data:** Displays vehicle counts, emergency vehicle counts, and operational status for different intersections.
+- **OS Metrics Visualization:** Monitors CPU usage, memory usage, disk usage, and the number of processes running on the system.
+- **Interactive Charts:** Utilizes Recharts to visualize traffic flow and other metrics, providing insights into traffic patterns.
+- **User-Friendly Interface:** Built with Material-UI for a responsive and aesthetically pleasing design.
+- **Dark/Light Mode:** Supports theme switching for user preference.
+
+## Tech Stack
+
+- **Frontend:**
+  - React
+  - React Router
+  - Recharts
+  - Material-UI
+  - Lucide-react for icons
+
+- **State Management:** 
+  - React Hooks (useState, useEffect)
+
+## Installation
+
+To run the project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/bengaluru-traffic-management-dashboard.git
+   cd bengaluru-traffic-management-dashboard
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
