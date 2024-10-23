@@ -95,7 +95,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 Contributions are welcome! If you have suggestions for improvements or features, please feel free to create an issue or submit a pull request.
 
 
-# For any inquiries or feedback, feel free to reach out at cherukuru.aditya01@gmail.com
+### For any inquiries or feedback, feel free to reach out at cherukuru.aditya01@gmail.com
 
 ### Important Notes:
 
