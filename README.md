@@ -36,6 +36,17 @@ To run the project locally, follow these steps:
 
 
 
+##Usage
+##Once the application is running, you can:
+
+--Navigate through the various sections using the sidebar.
+--View the status of different traffic intersections.
+--Simulate faults and repairs on intersections.
+--Observe system metrics in real-time.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -107,3 +118,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# bengaluru-traffic-manager" 
+
+
+
+**Contributing
+Contributions are welcome! If you have suggestions for improvements or features, please feel free to create an issue or submit a pull request.
+
+
+
+
+### Important Notes:
+
+- **Project Link:** Make sure to update `yourusername` in the clone command to your actual GitHub username.
+- **License Information:** Replace `[year]` and `[fullname]` in the MIT License section with the appropriate year and your full name.
+- **Contact Information:** Update `your.email@example.com` with your actual email address.
+
+This complete README covers all necessary information about your project! Feel free to add any additional sections or modify existing ones to better suit your needs.
+
