@@ -37,7 +37,7 @@ To run the project locally, follow these steps:
 
 
 ##Usage
-##Once the application is running, you can:
+Once the application is running, you can:
 
 --Navigate through the various sections using the sidebar.
 --View the status of different traffic intersections.
